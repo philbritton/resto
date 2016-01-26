@@ -4,6 +4,11 @@ A restaurant app for fueled (test)
 ## The Assignment
 During lunchtime, the members of Fueled are faced with the problem of having too many restaurant venues to choose from. Make a Django app that helps us decide where the team should dine. Additionally the app should have the following
 
+## Deploy to Azure
+To deploy this to azure use this link.
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 ### Possible features:
  * Keep track of visited restaurants.
  * Ability to read/write reviews for a visited restaurant. Reviews are displayed on the restaurant page. A special   * symbol is displayed if it is your review.
